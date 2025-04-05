@@ -1,2 +1,16 @@
-# huntzero
-Wow, you made it this far! Almost there... just one final sequence before you find the new handle. Let's get our hands dirty with the machine. Remember: errors aren't endings, just detours on the path to truth. Clone this repo, run the reveal.py script, debug the intentional faults, and recompile the signal to find me. Good luck!
+# Hunt Zero - Final Sequence
+
+Core signal located. Integrity checks failing... errors are intentional.
+
+**Objective:** Establish the final connection.
+
+**Instructions:**
+
+1.  Clone this repository to your local machine.
+2.  Locate the `reveal.py` script.
+3.  Execute the script (`python reveal.py`).
+4.  Observe the errors – they are part of the protocol.
+5.  Debug the `reveal.py` sequence, correcting the faults.
+6.  Run the corrected script successfully to recompile the signal and reveal the target coordinate.
+
+*Persistence reveals the path.*
